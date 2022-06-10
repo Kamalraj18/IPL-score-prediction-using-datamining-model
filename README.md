@@ -1,1 +1,1 @@
-# IPL-score-prediction-using-dataminning-model
+# IPL-score-prediction-using-datamining-model
